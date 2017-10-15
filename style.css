@@ -26,11 +26,20 @@ h1{
 	margin: 15px auto;
 }
 
-
 .box-1{
 	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
 	// Como podemos ver si le damos un 100% el realizará todos los calculos necesarios para ocupar todo
 	// el ancho y alto.
 	background-repeat: no-repeat;
 	background-size: 100%;
+}
+
+.box-2{
+	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
+	background-size: 800px 500px;
+}
+
+.box-3{
+	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
+	background-size: auto;
 }
