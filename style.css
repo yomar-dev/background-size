@@ -4,8 +4,9 @@
 }
 
 body{
-	font-family: sans-serif;
+	color: #333;
 	background: #f1f1fe;
+	font-family: sans-serif;
 }
 
 div.container{
@@ -15,21 +16,18 @@ div.container{
 }
 
 h1{
-	margin-top: 40px;
-	color: #333;
+	margin: 40px 0px;
 }
 
 .box{
 	width: 800px;
 	height: 500px;
 	border: 1px solid rgba(0, 0, 0, .5);
-	margin: 15px auto;
+	margin-bottom: 30px;
 }
 
 .box-1{
 	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
-	// Como podemos ver si le damos un 100% el realizará todos los calculos necesarios para ocupar todo
-	// el ancho y alto.
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
