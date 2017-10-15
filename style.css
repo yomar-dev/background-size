@@ -29,6 +29,8 @@ h1{
 
 .box-1{
 	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
-	background-size: 500px;
+	// Como podemos ver si le damos un 100% el realizará todos los calculos necesarios para ocupar todo
+	// el ancho y alto.
 	background-repeat: no-repeat;
+	background-size: 100%;
 }
