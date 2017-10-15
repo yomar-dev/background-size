@@ -43,3 +43,8 @@ h1{
 	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
 	background-size: auto;
 }
+
+.box-4{
+	background: #ccc url('http://www.colombia.co/wp-content/uploads/2016/05/Caribe-negocios-cartagena.jpg');
+	background-size: cover;
+}
